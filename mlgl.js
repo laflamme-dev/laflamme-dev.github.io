@@ -1,7 +1,7 @@
 function d100()
 {return Math.floor(Math.random() * 100) + 1}; // returns a random integer from 1 to 100
 
-
+document.write("bonjour Gabriel")
 
 shooting = prompt("quel est ton score (pourcentage) pour les armes automatiques (enter pour 50)")
 if (shooting =="") {shooting=50}
