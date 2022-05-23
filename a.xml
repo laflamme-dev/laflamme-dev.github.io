@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookshelf>
     <book>
-      <title>me and bob</title>
+      <title>me and bob is the title of a book returned in an xml file</title>
       <year>2022</year>
     </book>
     <book>
